@@ -1,2 +1,1 @@
-
-npm help
+npm --version
