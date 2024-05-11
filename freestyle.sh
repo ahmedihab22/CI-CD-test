@@ -1,2 +1,2 @@
-#! bin/bash
-npm -version
+
+npm whoami
